@@ -1,6 +1,7 @@
 *.class
 .ant-targets-build.xml
 *~
+javadoc/*
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
